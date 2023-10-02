@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1695406301 source:c:\users\brisa ortiz\onedrive\escritorio\brisa ortiz\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+
+1695407706 source:c:\users\brisa ortiz\onedrive\escritorio\laboratorio ii\brisa ortiz parcial 1 labo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+
